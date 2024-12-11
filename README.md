@@ -3,9 +3,11 @@
 <h1 align = "left">Hi, I am Saif Ansari</h1>
 <h2 align = "left">Aspiring Data Engineer</h2>
 
+[![Static Badge](https://img.shields.io/badge/Resume-Resume?style=for-the-badge&logo=GoogleDrive&logoColor=white&color=red)](https://drive.google.com/file/d/1R5n2--KuYQpeubHQTr1mfKmLaTCjqiHQ/view?usp=drive_link)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/saifansari1)
 [![Static Badge](https://img.shields.io/badge/Email-mail?style=for-the-badge&logo=Minutemailer&logoColor=white&color=grey)
 ](mailto:saif.ansari9223@gmail.com)
+
 
 <p>I am a junior at the University of Texas at Austin, class of 2026, pursuing a Bachelor of Business Administration in Management Information Systems, along with a Computer Science certification and a Business Analytics minor. I am passionate about technology, programming, and data science, and I consistently seek opportunities to expand my knowledge and skills in these areas. As a self-motivated learner, I thrive in both collaborative environments and independent projects. My ultimate goal is to become a leader in the tech industry, leveraging data-driven insights and innovative solutions to create a meaningful impact on the world.</p>
 
