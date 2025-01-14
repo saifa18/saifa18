@@ -9,7 +9,7 @@
 ](mailto:saif.ansari9223@gmail.com)
 
 
-<p>I am a junior at the University of Texas at Austin, class of 2026, pursuing a Bachelor of Business Administration in Management Information Systems, along with a Computer Science certification and a Business Analytics minor. I am passionate about technology, programming, and data science, and I consistently seek opportunities to expand my knowledge and skills in these areas. As a self-motivated learner, I thrive in both collaborative environments and independent projects. My ultimate goal is to become a leader in the tech industry, leveraging data-driven insights and innovative solutions to create a meaningful impact on the world.</p>
+<p>I am a junior at the University of Texas at Austin, class of 2026, pursuing a Bachelor of Business Administration in Business Analytics, along with a Computer Science certification and a MIS minor. I am passionate about technology, programming, and data science, and I consistently seek opportunities to expand my knowledge and skills in these areas. As a self-motivated learner, I thrive in both collaborative environments and independent projects. My ultimate goal is to become a leader in the tech industry, leveraging data-driven insights and innovative solutions to create a meaningful impact on the world.</p>
 
 
 <h2>Languages:</h2>
